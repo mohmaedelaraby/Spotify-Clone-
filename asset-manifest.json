@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Spotify-Clone/static/css/main.c2337694.chunk.css",
+    "main.js": "/Spotify-Clone/static/js/main.028fa8f1.chunk.js",
+    "main.js.map": "/Spotify-Clone/static/js/main.028fa8f1.chunk.js.map",
+    "runtime-main.js": "/Spotify-Clone/static/js/runtime-main.5482a81a.js",
+    "runtime-main.js.map": "/Spotify-Clone/static/js/runtime-main.5482a81a.js.map",
+    "static/js/2.6fc08761.chunk.js": "/Spotify-Clone/static/js/2.6fc08761.chunk.js",
+    "static/js/2.6fc08761.chunk.js.map": "/Spotify-Clone/static/js/2.6fc08761.chunk.js.map",
+    "static/js/3.c1cc18e1.chunk.js": "/Spotify-Clone/static/js/3.c1cc18e1.chunk.js",
+    "static/js/3.c1cc18e1.chunk.js.map": "/Spotify-Clone/static/js/3.c1cc18e1.chunk.js.map",
+    "index.html": "/Spotify-Clone/index.html",
+    "precache-manifest.670cb1c407c8f86f4c92268fa223784a.js": "/Spotify-Clone/precache-manifest.670cb1c407c8f86f4c92268fa223784a.js",
+    "service-worker.js": "/Spotify-Clone/service-worker.js",
+    "static/css/main.c2337694.chunk.css.map": "/Spotify-Clone/static/css/main.c2337694.chunk.css.map",
+    "static/js/2.6fc08761.chunk.js.LICENSE.txt": "/Spotify-Clone/static/js/2.6fc08761.chunk.js.LICENSE.txt",
+    "static/media/Spotify-symbol.jpg": "/Spotify-Clone/static/media/Spotify-symbol.f4313f26.jpg",
+    "static/media/nirvana.jpg": "/Spotify-Clone/static/media/nirvana.f91c02bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5482a81a.js",
+    "static/js/2.6fc08761.chunk.js",
+    "static/css/main.c2337694.chunk.css",
+    "static/js/main.028fa8f1.chunk.js"
+  ]
+}
