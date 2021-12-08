@@ -1,0 +1,27 @@
+.side_bar{
+    flex: 0.2;
+    height: 100vh;
+    background-color: #040404;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 225px;
+}
+
+.side_logo{
+    height: 70px;
+    padding: 12px;
+    margin-right: auto;
+}
+
+.sidebar_playlist{
+    font-size: 12px;
+    padding: 5px;
+    margin-left: 10px;
+
+}
+.line{
+    border: 1px solid gray;
+    width: 90%;
+    margin: 10px auto;
+}

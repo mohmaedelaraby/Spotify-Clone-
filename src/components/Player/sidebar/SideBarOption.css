@@ -1,0 +1,29 @@
+.side_option{
+    display: flex;
+    align-items: center;
+    color: grey;
+    height: 40px;
+    cursor: pointer;
+    transition: 200ms color ease-in;
+}
+
+.side_bar>hr{
+    border: 1px solid gray;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.side_option:hover{
+    color: white;
+}
+
+.side_option_icon{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.side_option > p {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 14px;
+  }
